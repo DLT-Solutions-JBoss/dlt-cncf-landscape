@@ -1,10 +1,8 @@
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1767/badge)](https://bestpractices.coreinfrastructure.org/projects/1767) [![Dependency Status](https://img.shields.io/david/cncf/landscape.svg?style=flat-square)](https://david-dm.org/cncf/landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/91337728-8166-4c8f-bc39-9159bf97dcbc/deploy-status)](https://app.netlify.com/sites/landscape/deploys)
-
 # DLT Cloud Landscape
 
 ![Cloud Native Landscape Logo](http://dev.dlt.com/sites/default/files/styles/content_image/public/2020-11/DLT_Header_1200x188.jpg?itok=DcRUVuIu)
 
-- [Cloud Native Landscape](#cloud-native-landscape)
+- [DLT Cloud Landscape](#cloud-native-landscape)
   * [Trail Map](#trail-map)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -20,19 +18,19 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-The [CNCF](https://www.cncf.io) Cloud Native Landscape Project is intended as a map through the previously uncharted terrain of cloud native technologies. This attempts to categorize most of the projects and product offerings in the cloud native space. There are many routes to deploying a cloud native application, with CNCF Projects representing a particularly well-traveled path. It has been built in collaboration with [Redpoint Ventures](https://www.redpoint.com/) and [Amplify Partners](http://www.amplifypartners.com/).
+The [DLT Cloud Navigator](https://www.dlt.com/services/dlt-cloud-navigator-program) DLT Cloud Navigator utilizes DLT’s position as the premier government solutions aggregator, with our deep public sector knowledge, and comprehensive understanding of cloud aggregation.
 
-The software for the interactive landscape has been extracted to https://github.com/cncf/landscapeapp where it is used for other landscapes as well. This repo includes all of the data and images specific to the CNCF landscapes.
+The software for the interactive landscape has been extracted to https://github.com/DLT-Solutions-JBoss/landscapeapp where it is used for other landscapes as well. This repo includes all of the data and images specific to the DLT Cloud Navigator landscapes.
 
 ## Trail Map
 
 The Cloud Native Trail Map provides an overview for enterprises starting their cloud native journey.
 
-[![CNCF Trail Map](https://github.com/cncf/trailmap/blob/master/CNCF_TrailMap_latest.png)](https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png)
+[![DLt Cloud Navigator Flight Plan](https://www.dlt.com/services/dlt-cloud-navigator-program#tab-131-2)]
 
 ## Interactive Version
 
-Please see [landscape.cncf.io](https://landscape.cncf.io).
+Please see [cn_landscape.dlt.io](https://cn_landscape.dlt.io).
 
 ## New Entries
 
